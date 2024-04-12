@@ -1,0 +1,14 @@
+C:\Users\046736\source\repos\Atividade 5 poo\Atividade 5 poo\bin\Debug\net8.0\Atividade 5 poo.exe
+C:\Users\046736\source\repos\Atividade 5 poo\Atividade 5 poo\bin\Debug\net8.0\Atividade 5 poo.deps.json
+C:\Users\046736\source\repos\Atividade 5 poo\Atividade 5 poo\bin\Debug\net8.0\Atividade 5 poo.runtimeconfig.json
+C:\Users\046736\source\repos\Atividade 5 poo\Atividade 5 poo\bin\Debug\net8.0\Atividade 5 poo.dll
+C:\Users\046736\source\repos\Atividade 5 poo\Atividade 5 poo\bin\Debug\net8.0\Atividade 5 poo.pdb
+C:\Users\046736\source\repos\Atividade 5 poo\Atividade 5 poo\obj\Debug\net8.0\Atividade 5 poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\046736\source\repos\Atividade 5 poo\Atividade 5 poo\obj\Debug\net8.0\Atividade 5 poo.AssemblyInfoInputs.cache
+C:\Users\046736\source\repos\Atividade 5 poo\Atividade 5 poo\obj\Debug\net8.0\Atividade 5 poo.AssemblyInfo.cs
+C:\Users\046736\source\repos\Atividade 5 poo\Atividade 5 poo\obj\Debug\net8.0\Atividade 5 poo.csproj.CoreCompileInputs.cache
+C:\Users\046736\source\repos\Atividade 5 poo\Atividade 5 poo\obj\Debug\net8.0\Atividade 5 poo.dll
+C:\Users\046736\source\repos\Atividade 5 poo\Atividade 5 poo\obj\Debug\net8.0\refint\Atividade 5 poo.dll
+C:\Users\046736\source\repos\Atividade 5 poo\Atividade 5 poo\obj\Debug\net8.0\Atividade 5 poo.pdb
+C:\Users\046736\source\repos\Atividade 5 poo\Atividade 5 poo\obj\Debug\net8.0\Atividade 5 poo.genruntimeconfig.cache
+C:\Users\046736\source\repos\Atividade 5 poo\Atividade 5 poo\obj\Debug\net8.0\ref\Atividade 5 poo.dll
